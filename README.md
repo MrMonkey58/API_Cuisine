@@ -15,11 +15,16 @@ Projet option SIN I2 2023/2024 - UniLasalle Amiens
 
 Cette API a pour but d'être utilisée pour la création de recettes de cuisine par des utilisateurs.
 **Différentes possibilités s'offrent à eux :**
-    1. Créer une recette
-    2. Créer et ajouter un ingrédient
-    3. Créer et ajouter une recette (avec les quantités de chaque ingrédient et des instructions)
-    4. Ajouter une recette dans ses favoris
-    5. Créer et ajouter des menus (entrés, plat, dessert)
+1. **Créer une recette**
+2. **Créer et ajouter un ingrédient**
+3. **Créer et ajouter une recette**
+   - Avec les quantités de chaque ingrédient
+   - Des instructions détaillées
+4. **Ajouter une recette dans ses favoris**
+5. **Créer et ajouter des menus**
+   - Entrée
+   - Plat
+   - Dessert
 
 L'utilisateur a bien sûr la possibilité de supprimer et voir ses modifications. Vous pouvez pour cela utiliser les méthodes GET, POST ou DEL avec les URLs des requêtes correspondantes.
 La documentation qui suit montrera comment générer et utiliser ces requêtes.
