@@ -4,11 +4,11 @@ Projet option SIN I2 2023/2024 - UniLasalle Amiens
 ## 📖 Table des Matières
 
 1. [Aperçu](#-aperçu)
-2. [Fonctionnement générale](#generale)
+2. [Fonctionnement générale](#-fonctionnement-generale)
 3. [Installation](#-installation)
 4. [Utilisation](#-utilisation)
-5. [Code source](#code)
-6. [Auteurs](#-auteurs)
+5. [Code source](#%EF%B8%8F-code-source)
+6. [Auteurs](#%EF%B8%8F-auteurs)
 
 
 ## 📋 Aperçu
@@ -38,6 +38,7 @@ Utilisez Python version: 3.10
 
 
 **Hiérarchie à respecter :**
+
     📦Projet_Cuisine
     ┣ 📂instance
     ┃ ┗ 📜database.db
