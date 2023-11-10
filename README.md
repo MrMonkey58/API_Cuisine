@@ -3,12 +3,12 @@ Projet option SIN I2 2023/2024 - UniLasalle Amiens
 
 ## 📖 Table des Matières
 
-1. [Aperçu](#aperçu)
+1. [Aperçu](#-aperçu)
 2. [Fonctionnement générale](#generale)
-3. [Installation](#installation)
-4. [Utilisation](#utilisation)
+3. [Installation](#-installation)
+4. [Utilisation](#-utilisation)
 5. [Code source](#code)
-6. [Auteurs](#auteurs)
+6. [Auteurs](#-auteurs)
 
 
 ## 📋 Aperçu
@@ -27,7 +27,7 @@ La documentation qui suit montrera comment générer et utiliser ces requêtes.
 
 ## 🔧 Fonctionnement générale
 
-Toute l'API reçoit des informations via le format JSON (pour plus d'infomations sur cette notation, se rendre sur : https://www.json.org/json-en.html) .
+Toute l'API reçoit des informations via le format JSON (pour plus d'infomations sur cette notation, se rendre sur : [https://www.json.org/json-en.html](https://www.json.org/json-en.html) .
 Nous avons utilisé le langage de programmation python pour notre projet et les modules Flask et Flask-sqlalchemy. 
 En effet, une base de donnée est créée pour stocker dans ses tables toutes les informations (Utilisateurs, Ingrédients, Reccettes (instructions, quantités, ...).
 
@@ -37,7 +37,7 @@ En effet, une base de donnée est créée pour stocker dans ses tables toutes le
 Utilisez Python version: 3.10
 
 
-Hiérarchie a respecter:
+**Hiérarchie à respecter :**
     📦Projet_Cuisine
     ┣ 📂instance
     ┃ ┗ 📜database.db
