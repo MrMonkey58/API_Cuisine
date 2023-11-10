@@ -15,7 +15,6 @@ Projet option SIN I2 2023/2024 - UniLasalle Amiens
 
 Cette API a pour but d'être utilisée pour la création de recettes de cuisine par des utilisateurs.
 **Différentes possibilités s'offrent à eux :**
-
     1. Créer une recette
     2. Créer et ajouter un ingrédient
     3. Créer et ajouter une recette (avec les quantités de chaque ingrédient et des instructions)
