@@ -100,7 +100,7 @@ Utilisation des notations :
 
 ## 🙋‍♂️ Auteurs
 
-Ce projet a été créé avec passion par :
+Ce projet a été co-créé par :
 
 - **MARTIN Tom**
   - 📧 Email: [tom.martin@etu.unilasalle.fr](mailto:tom.martin@etu.unilasalle.fr)
