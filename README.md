@@ -4,7 +4,7 @@ Projet option SIN I2 2023/2024 - UniLasalle Amiens
 ## 📖 Table des Matières
 
 1. [Aperçu](#-aperçu)
-2. [Fonctionnement générale](#-fonctionnement-generale)
+2. [Fonctionnement générale](#-fonctionnement-générale)
 3. [Installation](#-installation)
 4. [Utilisation](#-utilisation)
 5. [Code source](#%EF%B8%8F-code-source)
