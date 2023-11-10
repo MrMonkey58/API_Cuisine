@@ -25,6 +25,7 @@ Utilisation des notations :
 Bibliothèques utilisées : Flask, OS, SQLAlchemy
 
 Flask: https://flask.palletsprojects.com/en/3.0.x/
-OS: https://docs.python.org/fr/3/library/os.html
-SQLAlchemy: https://www.sqlalchemy.org
 
+OS: https://docs.python.org/fr/3/library/os.html
+
+SQLAlchemy: https://www.sqlalchemy.org
