@@ -18,8 +18,13 @@ cuisine pour différents utilisateurs.
 
 Code respectant au mieux la norme "PEP8".
 
-Bibliothèques utilisées : Flask, OS, SQLAlchemy ;
-
 Utilisation des notations :
                           - PascalCase pour les classes
                           - snake_case pour les fonctions
+
+Bibliothèques utilisées : Flask, OS, SQLAlchemy ;
+
+Flask: https://flask.palletsprojects.com/en/3.0.x/
+OS: https://docs.python.org/fr/3/library/os.html
+SQLAlchemy: https://www.sqlalchemy.org
+
