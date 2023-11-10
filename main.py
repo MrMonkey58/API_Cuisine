@@ -26,7 +26,7 @@ Utilisation des notations :
                           - PascalCase pour les classes
                           - snake_case pour les fonctions
 
-Lien GitHub de l'API :
+Lien GitHub de l'API : https://github.com/MrMonkey58/API_Cuisine
 """
 
 
