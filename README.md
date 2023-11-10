@@ -13,8 +13,9 @@ Application réalisée en fichiers multiples:
     - routes.py
     - database.db
 
-Projet réalisé en Python, le projet a pour objectif de construire une application destinée à fournir des recettes de
-cuisine pour différents utilisateurs.
+Python version: 3.10
+
+Projet réalisé en Python, le projet a pour objectif de construire une application destinée à fournir des recettes de cuisine pour différents utilisateurs.
 
 Code respectant au mieux la norme "PEP8".
 
