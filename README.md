@@ -100,8 +100,12 @@ Utilisation des notations :
 
 ## 🙋‍♂️ Auteurs
 
-Créateurs:
-    - MARTIN Tom
-    - TRIVES VAN BOXSTAEL Arthur
+Ce projet a été créé avec passion par :
+
+- **MARTIN Tom**
+  - 📧 Email: [tom.martin@etu.unilasalle.fr](mailto:tom.martin@etu.unilasalle.fr)
+
+- **TRIVES VAN BOXSTAEL Arthur**
+  - 📧 Email: [arthur.trives-vanboxstael@etu.unilasalle.fr](mailto:arthur.trives-vanboxstael@etu.unilasalle.fr)
 
 
