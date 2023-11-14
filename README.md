@@ -83,8 +83,8 @@ SQLAlchemy: [https://www.sqlalchemy.org](https://www.sqlalchemy.org)
 
 ## 💡 Utilisation
 
-Pour utiliser l'API, référez vous a la documentation technique fournie dans le dossier GitHub.
-
+Pour utiliser l'API, référez vous a la documentation technique fournie ci-joint:
+[Documentation technique Postman](https://documenter.getpostman.com/view/30304133/2s9YXib2av)
 
 ## ⌨️ Code source
 
